@@ -1,0 +1,14 @@
+[user]
+  name = Miss Chief
+  email = misschief2014@gmail.com
+[github]
+	user = misschief
+[core]
+  editor = /usr/bin/vim
+	excludesfile = /Users/mbailey/.gitignore
+[color]
+	ui = true
+[http]
+	proxy = 
+[push]
+	default = simple
